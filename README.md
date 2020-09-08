@@ -1,5 +1,5 @@
 # MaskedZodiac
-
+![Interaction GIF](https://github.com/AlexaRoseA/MaskedZodiac/blob/master/Images%20of%20Game/With%20NPCs.gif)
 MaskedZodiac is a game about gathering all 12 zodiac masks. Each mask holds a certain power; The powers of which the cat tribe wish to use to bring themselves as the 13th zodiac animal officially in the books. You are tasked by your tribe to infiltrate the other tribes and gather the masks that provide them their powers. **You need to be in the tribe zones, or complete acceptance into tribes to use outside of the tribe zones**
 
 ## Controls
@@ -11,6 +11,8 @@ MaskedZodiac is a game about gathering all 12 zodiac masks. Each mask holds a ce
 * Shift - Sneak (Cat Mask)
 
 ## Powers of each mask (not implemented fully)
+![Mask Switch GIF](https://github.com/AlexaRoseA/MaskedZodiac/blob/master/Images%20of%20Game/MaskSwitcher.gif)
+
 #### Cat Mask
 The Cat mask is what your tribe gave you. **Press shift to sneak**, your movements will be slower, but no one can see you! This is what you will use to take a mask from the tribes you need to infiltrate. 
 
